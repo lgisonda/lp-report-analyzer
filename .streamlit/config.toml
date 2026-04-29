@@ -1,0 +1,10 @@
+# Custom theme — financial-tool aesthetic.
+# Deep navy primary, cream accents, off-white backgrounds.
+# Conservative, professional, not flashy.
+
+[theme]
+primaryColor = "#1f3a5f"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f6f4ee"
+textColor = "#1a1a1a"
+font = "sans serif"
