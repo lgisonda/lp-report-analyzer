@@ -1,5 +1,7 @@
 # LP Report Analyzer
 
+![Dashboard — three-fund canonical metrics comparison](docs/dashboard.png)
+
 A Streamlit app that reads SEC fund filings (10-Ks and 10-Qs), extracts canonical metrics into a side-by-side comparison dashboard, and lets you chat with the documents in plain English. Every answer cites the page it came from.
 
 Built to demonstrate production RAG engineering — not just chunking and embedding, but the layered fixes required to make retrieval actually work over financial filings.
