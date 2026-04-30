@@ -1,8 +1,12 @@
 # LP Report Analyzer
 
+**Live demo:** https://lp-report-analyzer.streamlit.app/
+
 ![Dashboard — three-fund canonical metrics comparison](docs/dashboard.png)
 
 A Streamlit app that reads SEC fund filings (10-Ks and 10-Qs), extracts canonical metrics into a side-by-side comparison dashboard, and lets you chat with the documents in plain English. Every answer cites the page it came from.
+
+The live demo comes pre-loaded with three FY 2025 10-Ks: **BREIT** (Blackstone Real Estate Income Trust), **ARCC** (Ares Capital Corporation), and **SREIT** (Starwood Real Estate Income Trust). Open the link, scroll to the **Key metrics** dashboard for the three-fund comparison, then try a question in section 3 — *"How does BREIT's leverage compare to ARCC's?"* or *"What is each fund's largest sector?"*.
 
 Built to demonstrate production RAG engineering — not just chunking and embedding, but the layered fixes required to make retrieval actually work over financial filings.
 
