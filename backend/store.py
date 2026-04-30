@@ -1,16 +1,23 @@
 """Chroma vector store — persists to .chroma/ in the project root."""
 
 from pathlib import Path
+from typing import Any
+
 import chromadb
 
 from backend.chunk import Chunk
 
 PERSIST_DIR = Path(".chroma")
 COLLECTION_NAME = "lp_reports"
-_client: chromadb.PersistentClient | None = None
+
+# Module-level singleton client. Typed as Any rather than chromadb.PersistentClient
+# directly because newer chromadb versions expose PersistentClient as a factory
+# function rather than a plain class, which breaks the `X | None` union syntax
+# at module-import time.
+_client: Any = None
 
 
-def get_client() -> chromadb.PersistentClient:
+def get_client():
     """Return a singleton persistent Chroma client."""
     global _client
     if _client is None:
