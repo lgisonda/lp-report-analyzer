@@ -2,6 +2,7 @@ streamlit
 pdfplumber
 langchain-text-splitters
 sentence-transformers
-chromadb
+chromadb>=0.5.20
+protobuf<5.0.0
 anthropic
 pandas
