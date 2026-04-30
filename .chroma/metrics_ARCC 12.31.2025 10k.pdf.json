@@ -1,0 +1,69 @@
+{
+  "doc_name": "ARCC 12.31.2025 10k.pdf",
+  "extracted_at": "2026-04-29T21:04:34Z",
+  "metrics": {
+    "total_assets": {
+      "key": "total_assets",
+      "label": "Total Assets",
+      "value": null,
+      "page": null,
+      "raw": "I need to find the Total Assets for ARCC at the most recent fiscal year-end (December 31, 2025).\n\nLooking at the excerpts provided:\n\n1. Page 97 shows investment income data - not total assets\n2. Pages 427 show financial highlights with \"Net assets at end of period\" which shows $14,318 million for 2025 and $7,176 million for a different class\n3. Page 131 mentions the index to consolidated financial statements and references a \"Consolidated Balance Sheet as of December 31, 2025 and 2024\" on F-5, but the actual balance sheet is not provided in these excerpts\n4. Other pages contain footnotes and supplemental information but not the consolidated balance sheet\n\nThe financial highlights on page 427 show \"Net assets at end of period\" of $14,318 (in millions) for 2025 in the second table. However, the guidance specifies to look for \"Total assets\" on the consolidated balance sheet, not \"Net assets.\"\n\nThe excerpts reference that the Consolidated Balance Sheet is on page F-5 (which would be page 135 in the document), but that actual balance sheet with the \"Total assets\" line is not included in the provided excerpts.\n\nSince the actual Consolidated Balance Sheet with the explicit \"Total assets\" line is not provided in these"
+    },
+    "nav_per_share": {
+      "key": "nav_per_share",
+      "label": "NAV / Share",
+      "value": "$19.94",
+      "page": 427,
+      "raw": "VALUE: $19.94\nPAGE: 427"
+    },
+    "total_revenue": {
+      "key": "total_revenue",
+      "label": "Total Revenue / Investment Income",
+      "value": "$3,052 million",
+      "page": 97,
+      "raw": "VALUE: $3,052 million\nPAGE: 97"
+    },
+    "net_income": {
+      "key": "net_income",
+      "label": "Net Income / NII",
+      "value": "$1,415 million",
+      "page": 97,
+      "raw": "VALUE: $1,415 million\nPAGE: 97"
+    },
+    "mgmt_fee_rate": {
+      "key": "mgmt_fee_rate",
+      "label": "Management Fee Rate",
+      "value": "1.5% of average total assets for assets financed using leverage up to 1.0x debt to equity; 1.0% of average total assets for assets financed using leverage over 1.0x debt to equity",
+      "page": 19,
+      "raw": "VALUE: 1.5% of average total assets for assets financed using leverage up to 1.0x debt to equity; 1.0% of average total assets for assets financed using leverage over 1.0x debt to equity\nPAGE: 19"
+    },
+    "distribution_rate": {
+      "key": "distribution_rate",
+      "label": "Distribution Rate / Yield",
+      "value": "$1.92 per share",
+      "page": 425,
+      "raw": "VALUE: $1.92 per share\nPAGE: 425"
+    },
+    "leverage_ratio": {
+      "key": "leverage_ratio",
+      "label": "Leverage",
+      "value": "150% asset coverage",
+      "page": 26,
+      "raw": "VALUE: 150% asset coverage\nPAGE: 26"
+    },
+    "largest_sector": {
+      "key": "largest_sector",
+      "label": "Largest Sector / Industry",
+      "value": "Software and Services \u2014 23.8% of portfolio",
+      "page": 388,
+      "raw": "VALUE: Software and Services \u2014 23.8% of portfolio\nPAGE: 388"
+    },
+    "portfolio_count": {
+      "key": "portfolio_count",
+      "label": "Portfolio Count",
+      "value": "NOT FOUND",
+      "page": null,
+      "raw": "I need to find the total number of portfolio companies that Ares Capital Corporation (ARCC), a BDC, held as of December 31, 2025.\n\nLooking through the excerpts provided:\n\n1. The Schedule of Investments (pages 164, 198, 159) shows individual portfolio company holdings but does not provide a total count of portfolio companies.\n\n2. Page 85 shows investment activity including \"New portfolio companies\" and investment commitment metrics, but this describes activity during the year (321 new investment commitments), not the total active holdings count.\n\n3. The financial highlights tables on page 427 do not contain portfolio count information.\n\n4. None of the excerpts provided explicitly state the total number of distinct portfolio companies held as of December 31, 2025.\n\nThe excerpts show detailed investment listings and activity metrics, but do not include the explicit total count of active portfolio companies at year-end that would typically appear in the business overview section or at the bottom of the Schedule of Investments.\n\nVALUE: NOT FOUND\nPAGE: -"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "doc_name": "SREIT 12.31.2025 10K.pdf",
+  "extracted_at": "2026-04-29T21:20:35Z",
+  "metrics": {
+    "total_assets": {
+      "key": "total_assets",
+      "label": "Total Assets",
+      "value": "NOT FOUND",
+      "page": null,
+      "raw": "I need to find the Total Assets figure from the consolidated balance sheet or statement of assets and liabilities for the most recent fiscal year-end (December 31, 2025).\n\nLooking through the provided excerpts, I can see:\n- Page 68: Distribution information\n- Page 75: Portfolio summary with Gross Asset Value ($20,556,919 thousand) - but this is segment reporting, not total assets\n- Page 117: Notes to Consolidated Financial Statements (referenced but no actual balance sheet data shown)\n- Page 143-145: Segment financial results by year\n- Page 153: Real estate and accumulated depreciation schedule\n\nThe excerpts provided do not contain an actual consolidated balance sheet or consolidated statement of assets and liabilities with a \"Total Assets\" line item. Page 117 is referenced as containing consolidated financial statements information, but the actual table content showing total assets is not provided in the excerpts.\n\nWhile page 75 shows a Gross Asset Value of $20,556,919 thousand for segment reporting purposes, the guidance explicitly states \"DO NOT report a single segment's total assets \u2014 only the company-wide or fully-consolidated total\" and this appears to be segment-basis reporting rather than the balance sheet total assets line.\n\nVALUE: NOT FOUND\nPAGE: -"
+    },
+    "nav_per_share": {
+      "key": "nav_per_share",
+      "label": "NAV / Share",
+      "value": "$19.96",
+      "page": 66,
+      "raw": "VALUE: $19.96\nPAGE: 66"
+    },
+    "total_revenue": {
+      "key": "total_revenue",
+      "label": "Total Revenue / Investment Income",
+      "value": "$1,580,929 thousand",
+      "page": 143,
+      "raw": "VALUE: $1,580,929 thousand\nPAGE: 143"
+    },
+    "net_income": {
+      "key": "net_income",
+      "label": "Net Income / NII",
+      "value": "Net loss attributable to stockholders of $(691,616) thousand",
+      "page": 143,
+      "raw": "VALUE: Net loss attributable to stockholders of $(691,616) thousand\nPAGE: 143"
+    },
+    "mgmt_fee_rate": {
+      "key": "mgmt_fee_rate",
+      "label": "Management Fee Rate",
+      "value": "1.25% of NAV; currently waived to 1% of NAV effective May 2024",
+      "page": 69,
+      "raw": "VALUE: 1.25% of NAV; currently waived to 1% of NAV effective May 2024\nPAGE: 69"
+    },
+    "distribution_rate": {
+      "key": "distribution_rate",
+      "label": "Distribution Rate / Yield",
+      "value": "NOT FOUND",
+      "page": null,
+      "raw": "VALUE: NOT FOUND\nPAGE: -\n\nThe excerpts provided contain distributions declared per share (e.g., $1.2420 per share for 2023 on page 136), but do not contain an explicitly stated annualized distribution rate, distribution rate as a percentage of NAV, or dividend yield percentage for the most recent period (2025)."
+    },
+    "leverage_ratio": {
+      "key": "leverage_ratio",
+      "label": "Leverage",
+      "value": "50% to 65% LTV",
+      "page": 8,
+      "raw": "VALUE: 50% to 65% LTV\nPAGE: 8"
+    },
+    "largest_sector": {
+      "key": "largest_sector",
+      "label": "Largest Sector / Industry",
+      "value": "Multifamily \u2014 75% of portfolio",
+      "page": 75,
+      "raw": "VALUE: Multifamily \u2014 75% of portfolio\nPAGE: 75"
+    },
+    "portfolio_count": {
+      "key": "portfolio_count",
+      "label": "Portfolio Count",
+      "value": "NOT FOUND",
+      "page": null,
+      "raw": "I have reviewed all the provided excerpts from the SREIT 10-K filing for fiscal year-end 2025. The excerpts contain information about the REIT's business overview, tax qualification requirements, risk factors, and management, but they do not include a portfolio summary table showing the total property count or a specific statement of the total number of properties owned as of the most recent fiscal year-end.\n\nThe guidance specifically requests the total property count from a \"portfolio summary table \u2014 the 'Total' row that sums across all sectors,\" but no such table is present in the excerpts provided.\n\nVALUE: NOT FOUND\nPAGE: -"
+    }
+  }
+}

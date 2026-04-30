@@ -19,5 +19,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Vector store (for dev — we'll commit this for Streamlit Cloud deployment later)
-.chroma/
+# Vector store — committed for Streamlit Cloud deploy (frozen index loads on boot).
+# If working purely locally with frequent re-ingestion, you may want to ignore this.
+# .chroma/

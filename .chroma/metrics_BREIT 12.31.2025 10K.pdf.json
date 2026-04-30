@@ -1,0 +1,69 @@
+{
+  "doc_name": "BREIT 12.31.2025 10K.pdf",
+  "extracted_at": "2026-04-29T21:05:50Z",
+  "metrics": {
+    "total_assets": {
+      "key": "total_assets",
+      "label": "Total Assets",
+      "value": null,
+      "page": null,
+      "raw": "I need to find the Total Assets for BREIT at the most recent fiscal year-end (December 31, 2025).\n\nLooking through the excerpts provided, I can see:\n- Page 216-218: Segment reporting tables showing financial results by segment\n- Page 183: Fair value measurements table\n- Page 189: Properties held-for-sale assets and liabilities\n- Page 138: Property Sector Revenue reconciliation\n- Page 166: Index to Consolidated Financial Statements (references Consolidated Balance Sheets as of December 31, 2025 and 2024 on page F-4)\n- Page 240: Real estate activity schedule\n\nThe excerpts reference a \"Consolidated Balance Sheets as of December 31, 2025 and 2024\" which would be on page F-4, but that actual balance sheet page is not included in the provided excerpts. \n\nThe excerpt from page 183 shows \"assets and liabilities measured at fair value on a recurring basis\" with a Total of $15,816,238 thousand for 2025, but this is clearly not the consolidated total assets (it's only fair value measurements).\n\nThe excerpt from page 189 shows properties held-for-sale with Total assets of $700,831 thousand, which is again not the consolidated total.\n\nWithout the actual Consolidated Balance Sheet page showing the"
+    },
+    "nav_per_share": {
+      "key": "nav_per_share",
+      "label": "NAV / Share",
+      "value": "$14.1339",
+      "page": 125,
+      "raw": "VALUE: $14.1339\nPAGE: 125"
+    },
+    "total_revenue": {
+      "key": "total_revenue",
+      "label": "Total Revenue / Investment Income",
+      "value": "$7,962,272 thousand",
+      "page": 216,
+      "raw": "VALUE: $7,962,272 thousand\nPAGE: 216"
+    },
+    "net_income": {
+      "key": "net_income",
+      "label": "Net Income / NII",
+      "value": "$-3,284,153 thousand",
+      "page": 216,
+      "raw": "VALUE: $-3,284,153 thousand\nPAGE: 216"
+    },
+    "mgmt_fee_rate": {
+      "key": "mgmt_fee_rate",
+      "label": "Management Fee Rate",
+      "value": "1.25% of NAV",
+      "page": 200,
+      "raw": "VALUE: 1.25% of NAV\nPAGE: 200"
+    },
+    "distribution_rate": {
+      "key": "distribution_rate",
+      "label": "Distribution Rate / Yield",
+      "value": "4.8% of NAV",
+      "page": 135,
+      "raw": "VALUE: 4.8% of NAV\nPAGE: 135"
+    },
+    "leverage_ratio": {
+      "key": "leverage_ratio",
+      "label": "Leverage",
+      "value": "47% leverage ratio",
+      "page": 152,
+      "raw": "VALUE: 47% leverage ratio\nPAGE: 152"
+    },
+    "largest_sector": {
+      "key": "largest_sector",
+      "label": "Largest Sector / Industry",
+      "value": "Rental Housing \u2014 43.8% of portfolio",
+      "page": 137,
+      "raw": "VALUE: Rental Housing \u2014 43.8% of portfolio\nPAGE: 137"
+    },
+    "portfolio_count": {
+      "key": "portfolio_count",
+      "label": "Portfolio Count",
+      "value": "4,483",
+      "page": 137,
+      "raw": "VALUE: 4,483\nPAGE: 137"
+    }
+  }
+}
